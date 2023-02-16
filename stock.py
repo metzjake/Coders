@@ -6,7 +6,7 @@ import sys
 
 # Dictionary with stock symbol and price
 stock_dict = {
-  "WMT"  : "143.30",
+  "GOOGL"  : "96.94",
   "TGT"  : "168.51",
   "MSFT" : "248.16",
   "AMZN" : "102.24",
