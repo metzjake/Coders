@@ -37,7 +37,7 @@ def main():
     print("\n")
     main()
   else:
-    print("\nThanks for using the stock exchange lookup.")
+    print("\nThanks for using the New York Stock Exchange lookup.")
     sys.exit()
     
 print("Welcome to the stock exchange!\n")    
